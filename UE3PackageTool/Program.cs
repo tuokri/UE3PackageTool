@@ -57,7 +57,3 @@ async Task FindSubLevels(FileInfo file)
         }
     }
 }
-
-// TODO:
-// 1. parse command line args.
-// 2. parse map references sub-levels given a base dir.
